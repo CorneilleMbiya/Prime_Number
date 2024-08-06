@@ -1,0 +1,35 @@
+#buttons {
+    text-align: center;
+    text-align: center;
+}
+
+
+#myaffiche {
+    display: block;
+    text-align: center;
+    font-size: 100px;
+
+
+
+}
+
+.buttons {
+    padding: 10px 20px;
+    font-size: 10em;
+    color: blue;
+    background-color: azure;
+    border-radius: 6px ;
+    cursor: pointer;
+    transition: background-color 0.25s
+    
+}
+.btn {
+    
+}
+
+body {
+    padding: 200px;
+}
+#Next {
+    font-size: 80px;
+}
